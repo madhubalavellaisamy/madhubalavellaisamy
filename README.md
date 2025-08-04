@@ -1,43 +1,52 @@
-<h1 align="center">Hi there, I'm Madhu 👋</h1>
-<p align="center">
-  💻 Engineering Student | 🌐 Web Developer | ⚙️ Hardware Intern at Tessolve<br>
-  📍 Based in Tamil Nadu, India
+<div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px;">
+
+<h1 style="color: #f6f6f6;">👋 Hey, I'm <span style="color:#00ffe7;">Madhu</span></h1>
+<p style="color:#cfcfcf; font-size: 18px;">
+💻 Engineering Student | 🌐 Frontend Enthusiast | 🔬 UVM Intern @ Tessolve
 </p>
 
----
-
-### 🧠 About Me
-
-- 🎓 Final-year Engineering Student passionate about building tech that matters
-- 🌱 Currently learning **Java**, **React**, **MongoDB**, and **SystemVerilog (UVM)**
-- 🧪 Interning at **Tessolve** – working on **UART Protocol Verification** using UVM
-- 💬 I love breaking down complex topics and making them beginner-friendly
-- ☕ Coffee + Code = My kind of vibe!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFE7&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Java+%7C+React+%7C+MongoDB+Learner;Always+curious+to+build+and+explore!" alt="Typing SVG" />
 
 ---
 
 ### 🛠️ Tech Stack
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mongodb,java,git,github,vscode" />
+
+---
+
+### 🌙 GitHub Stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhubalavellaisamy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhubalavellaisamy&theme=tokyonight&hide_border=true" />
+
+---
+
+### 📂 Projects
+
+🧪 **UART Protocol Verification**  
+`SystemVerilog + UVM` | Internship @ Tessolve | Hardware verification simulation
+
+🎨 **Portfolio Website (React)**  
+Single-page dark theme portfolio (WIP)  
+✨ Sticky navbar | Black background | White fonts
+
+📝 **Form Validation System**  
+JavaScript + Bootstrap login/signup form with real-time validation
+
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mongodb,java,git,github,vscode" />
+  <a href="mailto:madhubalavellaisamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/madhubalavellaisamy/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhubalavellaisamy&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhubalavellaisamy&theme=tokyonight" width="48%"/>
+<p style="color:#888888; font-style: italic;">
+"Great code starts with curiosity. Keep exploring, keep building. 🚀"
 </p>
 
----
-
-### 🧰 Projects I’m Proud Of
-
-- 🎨 **Responsive React Portfolio**  
-  A sleek one-page portfolio to showcase my skills & journey  
-  *(Coming soon on GitHub!)*
-
-- 🔐 **Form Validation System**  
-  A modern sign-up form with client-side validation
+</div>

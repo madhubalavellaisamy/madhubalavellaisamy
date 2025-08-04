@@ -7,8 +7,7 @@
 ### 💻 What I'm Learning & Working On:
 - 🌱 Currently diving into **Java**, **ReactJS**, and **MongoDB**
 - 💡 Exploring **frontend development** and **form validation**
-- 🧪 Learning **UVM (Universal Verification Methodology)** for hardware projects
-- 🎯 Final-year intern @ **Tessolve**, working on **UART protocol verification** in SystemVerilog
+
 
 ---
 

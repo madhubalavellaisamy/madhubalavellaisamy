@@ -1,23 +1,20 @@
 <!-- README.md -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Madhu!;Web+Developer+%7C+Engineer+%7C+Tech+Explorer;Building+projects+with+love+%E2%9D%A4%EF%B8%8F" align="center" />
+<div align="center" style="background-color:#000000; padding: 30px; border-radius: 12px; color:white; font-family: 'Segoe UI', sans-serif;">
+
+<h1 style="font-size: 40px; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
+  👋 Hey, I'm Madhu
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF00CC&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Engineer+%7C+UVM+Intern+at+Tessolve;Frontend+Dev+%7C+Java+%7C+React+%7C+MongoDB+Learner;Always+building+with+passion+%F0%9F%94%A5" />
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc3&height=200&section=header&text=Madhu's%20World%20of%20Code&fontSize=40&fontColor=000000" />
-
-### 🖤 Engineering Student | 💻 Web Developer | 🧪 UVM Intern at Tessolve
-
-</div>
-
----
-
-### ⚡ About Me
+### ✨ About Me
 
 ```diff
-+ 🌱 Currently learning: Java, React, MongoDB, SystemVerilog
-+ 🚀 Projects in web, forms, and hardware verification
-+ 🧠 Focused on building strong fundamentals & real-world projects
-+ 🎯 Goal: To be a full-stack developer with hardware-verification experience
+🎓 Final-year Engineering Student
+🌱 Learning React, Java, MongoDB, UVM
+🧪 Intern at Tessolve – verifying UART protocol
+🎯 Passionate about creating beautiful web apps
+🌐 Love combining code + creativity

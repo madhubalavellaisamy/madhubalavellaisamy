@@ -1,52 +1,23 @@
-<div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px;">
+<!-- README.md -->
 
-<h1 style="color: #f6f6f6;">👋 Hey, I'm <span style="color:#00ffe7;">Madhu</span></h1>
-<p style="color:#cfcfcf; font-size: 18px;">
-💻 Engineering Student | 🌐 Frontend Enthusiast | 🔬 UVM Intern @ Tessolve
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFE7&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Java+%7C+React+%7C+MongoDB+Learner;Always+curious+to+build+and+explore!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Madhu!;Web+Developer+%7C+Engineer+%7C+Tech+Explorer;Building+projects+with+love+%E2%9D%A4%EF%B8%8F" align="center" />
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mongodb,java,git,github,vscode" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc3&height=200&section=header&text=Madhu's%20World%20of%20Code&fontSize=40&fontColor=000000" />
 
----
-
-### 🌙 GitHub Stats
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhubalavellaisamy&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhubalavellaisamy&theme=tokyonight&hide_border=true" />
-
----
-
-### 📂 Projects
-
-🧪 **UART Protocol Verification**  
-`SystemVerilog + UVM` | Internship @ Tessolve | Hardware verification simulation
-
-🎨 **Portfolio Website (React)**  
-Single-page dark theme portfolio (WIP)  
-✨ Sticky navbar | Black background | White fonts
-
-📝 **Form Validation System**  
-JavaScript + Bootstrap login/signup form with real-time validation
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:madhubalavellaisamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/madhubalavellaisamy/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p style="color:#888888; font-style: italic;">
-"Great code starts with curiosity. Keep exploring, keep building. 🚀"
-</p>
+### 🖤 Engineering Student | 💻 Web Developer | 🧪 UVM Intern at Tessolve
 
 </div>
+
+---
+
+### ⚡ About Me
+
+```diff
++ 🌱 Currently learning: Java, React, MongoDB, SystemVerilog
++ 🚀 Projects in web, forms, and hardware verification
++ 🧠 Focused on building strong fundamentals & real-world projects
++ 🎯 Goal: To be a full-stack developer with hardware-verification experience

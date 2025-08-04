@@ -1,40 +1,43 @@
-## Hi there 👋 I'm Madhu!
-
-🌟 I'm a passionate engineering student currently learning and building exciting web and hardware projects!
-
----
-
-### 💻 What I'm Learning & Working On:
-- 🌱 Currently diving into **Java**, **ReactJS**, and **MongoDB**
-- 💡 Exploring **frontend development** and **form validation**
-
+<h1 align="center">Hi there, I'm Madhu 👋</h1>
+<p align="center">
+  💻 Engineering Student | 🌐 Web Developer | ⚙️ Hardware Intern at Tessolve<br>
+  📍 Based in Tamil Nadu, India
+</p>
 
 ---
 
-### 🚀 Skills & Tools:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+### 🧠 About Me
+
+- 🎓 Final-year Engineering Student passionate about building tech that matters
+- 🌱 Currently learning **Java**, **React**, **MongoDB**, and **SystemVerilog (UVM)**
+- 🧪 Interning at **Tessolve** – working on **UART Protocol Verification** using UVM
+- 💬 I love breaking down complex topics and making them beginner-friendly
+- ☕ Coffee + Code = My kind of vibe!
 
 ---
 
-### 📫 How to reach me:
-- 📧 Email: **madhubalavellaisamy@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/madhubalavellaisamy](https://www.linkedin.com/in/madhubalavellaisamy/)
-- 🌐 Portfolio: *Coming Soon...*
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mongodb,java,git,github,vscode" />
+</p>
 
 ---
 
-### 🧠 Fun Facts:
-- 🎨 I enjoy designing clean, responsive UIs
-- 💬 I love helping others understand complex topics simply
-- ☕ A coffee fan who once thought of building a coffee brand website!
+### 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhubalavellaisamy&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhubalavellaisamy&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
-> ✨ “Stay curious. Keep learning. Build what you love.” ✨
+### 🧰 Projects I’m Proud Of
 
+- 🎨 **Responsive React Portfolio**  
+  A sleek one-page portfolio to showcase my skills & journey  
+  *(Coming soon on GitHub!)*
+
+- 🔐 **Form Validation System**  
+  A modern sign-up form with client-side validation
